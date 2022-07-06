@@ -1,15 +1,14 @@
-#include "main.h"
+#include "main. h"
+
 /**
- * main - print putchar
- *
- *Return : always 0
- *
+ * main-print putchar
+ *main - void
+ * Return : always 0
  *
  */
-int main(void)
 
+void main(void)
 {
-
 	_putchar('_');
 
 	_putchar('p');
@@ -31,5 +30,4 @@ int main(void)
 
 
 	return (0);
-
 }

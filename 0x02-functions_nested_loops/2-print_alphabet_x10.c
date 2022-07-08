@@ -1,13 +1,10 @@
 #include "main.h"
+
 /**
- *
  * print_alphabet_x10 -> prints the lowercase alphabets
- *
  */
 
-
-
-void print_alphabet_10(void)
+void print_alphabet_x10(void)
 
 {
 
@@ -32,5 +29,7 @@ void print_alphabet_10(void)
 		_putchar('\n');
 
 	}
+
+}
 
 

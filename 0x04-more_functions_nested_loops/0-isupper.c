@@ -1,8 +1,10 @@
 #include "main.h"
 
+
+
 /**
- *This is a function to check upper case alphabet
- * @c: an integer parameter
+ * _isupper -> this is a function to check upper case
+ * @c: an integer paramer
  * Return: something but success
  */
 
